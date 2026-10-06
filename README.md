@@ -6,7 +6,11 @@ A full-stack stock trading web application inspired by modern online trading pla
 > ⚠️ **Note:** This is an educational/demo project and is not connected to a real stock exchange or real-money brokerage service.
 
 ---
+## 🚀 Live Demo
 
+👉 **[Live Website](https://stock-trading-platform-frontend-api.netlify.app/)**
+
+---
 ## 🚀 Project Overview
 
 The **Stock Trading Platform** is a full-stack web application built to simulate the experience of a modern online stock trading platform.
